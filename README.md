@@ -112,7 +112,7 @@ This project is deployed on Netlify. To deploy your own version:
 
 This project was inspired by tutorials on:
 - [MDN Web Docs - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+- [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)/
 
 ## 📄 License
 
