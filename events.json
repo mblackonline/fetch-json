@@ -1,10 +1,62 @@
 [
     {
-        "title": "Tue Oct 24th 5:00pm:  Tech Tuesdays",
-        "link": "https://tockify.com/chatech/detail/14/1698181200000"
+        "title": "Tue Oct 24th 5:00pm: Tech Tuesdays",
+        "link": "https://example.com/event/tech-tuesdays"
     },
     {
-        "title": "Wed Oct 25th 11:00am - 12:00pm:  How can Robotic Process Automation (RPA) improve the process automation in your company?",
-        "link": "https://tockify.com/chatech/detail/38/1698246000000"
+        "title": "Wed Oct 25th 11:00am - 12:00pm: How can Robotic Process Automation (RPA) improve the process automation in your company?",
+        "link": "https://example.com/event/rpa-automation-workshop"
+    },
+    {
+        "title": "Thu Oct 26th 6:00pm: Chattanooga Developers Meetup - Building Scalable APIs",
+        "link": "https://example.com/event/chattanooga-developers-meetup"
+    },
+    {
+        "title": "Fri Oct 27th 12:00pm: Lunch & Learn - Introduction to Cloud Computing",
+        "link": "https://example.com/event/lunch-learn-cloud-computing"
+    },
+    {
+        "title": "Mon Oct 30th 7:00pm: Python User Group - Data Science with Pandas",
+        "link": "https://example.com/event/python-user-group-pandas"
+    },
+    {
+        "title": "Tue Oct 31st 5:30pm: Halloween Hackathon Kickoff",
+        "link": "https://example.com/event/halloween-hackathon"
+    },
+    {
+        "title": "Wed Nov 1st 6:00pm: Women in Tech - Career Development Workshop",
+        "link": "https://example.com/event/women-in-tech-workshop"
+    },
+    {
+        "title": "Thu Nov 2nd 8:00am: Morning Coffee & Code - Open Coworking",
+        "link": "https://example.com/event/coffee-and-code"
+    },
+    {
+        "title": "Fri Nov 3rd 3:00pm: DevOps Discussion - Container Orchestration with Kubernetes",
+        "link": "https://example.com/event/devops-kubernetes"
+    },
+    {
+        "title": "Mon Nov 6th 5:30pm: JavaScript Frameworks Comparison - React vs Vue vs Angular",
+        "link": "https://example.com/event/js-frameworks-comparison"
+    },
+    {
+        "title": "Tue Nov 7th 6:00pm: Cybersecurity Meetup - Best Practices for Small Businesses",
+        "link": "https://example.com/event/cybersecurity-meetup"
+    },
+    {
+        "title": "Wed Nov 8th 12:00pm: Tech Talk - Machine Learning in Production",
+        "link": "https://example.com/event/ml-in-production"
+    },
+    {
+        "title": "Thu Nov 9th 7:00pm: Mobile Development Workshop - Building Your First iOS App",
+        "link": "https://example.com/event/ios-workshop"
+    },
+    {
+        "title": "Fri Nov 10th 4:00pm: Startup Pitch Night - Demo Your Project",
+        "link": "https://example.com/event/startup-pitch-night"
+    },
+    {
+        "title": "Mon Nov 13th 6:30pm: Database Design Principles - SQL vs NoSQL",
+        "link": "https://example.com/event/database-design"
     }
 ]
