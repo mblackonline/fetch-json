@@ -2,11 +2,11 @@
 
 A simple web application that demonstrates fetching and displaying JSON data using JavaScript's Fetch API. This project creates an interactive event calendar that dynamically loads event information from a JSON file.
 
-## 🚀 Live Demo
+## Live Demo
 
 View the live deployment: [https://fetch-json-exercise.netlify.app/](https://fetch-json-exercise.netlify.app/)
 
-## 📋 Description
+## Description
 
 This project was created as a learning exercise to understand:
 - Working with the Fetch API in JavaScript
@@ -16,7 +16,7 @@ This project was created as a learning exercise to understand:
 
 The application reads event data from a local JSON file and displays it as a clickable list of upcoming events.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** - Structure
 - **CSS3** - Styling with basic responsive features
@@ -24,7 +24,7 @@ The application reads event data from a local JSON file and displays it as a cli
 - **JSON** - Data storage format
 - **Netlify** - Deployment platform
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 fetch-json/
@@ -36,14 +36,14 @@ fetch-json/
 └── README.md         # Project documentation
 ```
 
-## 🎯 Features
+## Features
 
 - **Dynamic Content Loading**: Events are loaded from JSON file using Fetch API
 - **Clickable Links**: Each event title links to its detail page
 - **Basic Responsive Features**: Width adjusts from 80% to 90% on mobile devices (< 600px)
 - **Clean UI**: Simple, modern interface with hover effects
 
-## 💻 Installation & Usage
+## Installation & Usage
 
 1. Clone the repository:
    ```bash
@@ -62,7 +62,7 @@ fetch-json/
 
 3. Navigate to `http://localhost:8000` in your browser
 
-## 📝 How It Works
+## How It Works
 
 1. **HTML Structure** (`index.html`):
    - Sets up a basic page with a heading and empty table
@@ -83,7 +83,7 @@ fetch-json/
    - Clean design with shadow effects and hover states
    - Minimal responsive feature: table width adjusts on mobile screens
 
-## 🔧 Customization
+## Customization
 
 To add your own events:
 
@@ -99,7 +99,7 @@ To add your own events:
 
 2. The calendar will automatically display the new events
 
-## 🚀 Deployment
+## Deployment
 
 This project is deployed on Netlify. To deploy your own version:
 
@@ -108,13 +108,13 @@ This project is deployed on Netlify. To deploy your own version:
 3. Select the repository and deploy
 4. Your site will be live at a custom Netlify URL
 
-## 📚 Learning Resources
+## Learning Resources
 
 This project was inspired by tutorials on:
 - [MDN Web Docs - Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)/
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
@@ -127,4 +127,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Created: October 2023 | Last Updated: October 24, 2023*
+*Created: October 2023 | Last Updated: July 31, 2025*
