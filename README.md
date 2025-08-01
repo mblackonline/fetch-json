@@ -4,7 +4,7 @@ A simple web application that demonstrates fetching and displaying JSON data usi
 
 ## 🚀 Live Demo
 
-View the live deployment: [https://65373471e6d12f08493bf650--joyful-sfogliatella-e09cab.netlify.app/](https://65373471e6d12f08493bf650--joyful-sfogliatella-e09cab.netlify.app/)
+View the live deployment: [https://fetch-json-exercise.netlify.app/](https://fetch-json-exercise.netlify.app/)
 
 ## 📋 Description
 
