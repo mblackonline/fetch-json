@@ -40,7 +40,6 @@ fetch-json/
 
 - **Dynamic Content Loading**: Events are loaded from JSON file using Fetch API
 - **Clickable Links**: Each event title links to its detail page
-- **Basic Responsive Features**: Width adjusts from 80% to 90% on mobile devices (< 600px)
 - **Clean UI**: Simple, modern interface with hover effects
 
 ## Installation & Usage
