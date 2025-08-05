@@ -36,12 +36,6 @@ fetch-json/
 └── README.md         # Project documentation
 ```
 
-## Features
-
-- **Dynamic Content Loading**: Events are loaded from JSON file using Fetch API
-- **Clickable Links**: Each event title links to its detail page
-- **Clean UI**: Simple, modern interface with hover effects
-
 ## Installation & Usage
 
 1. Clone the repository:
@@ -79,7 +73,6 @@ fetch-json/
 
 4. **Styling** (`styles.css`):
    - Centered layout using Flexbox
-   - Clean design with shadow effects and hover states
    - Minimal responsive feature: table width adjusts on mobile screens
 
 ## Customization
